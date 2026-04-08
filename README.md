@@ -1,4 +1,4 @@
-# 📱 Mobile Directory Management System
+# Mobile Directory Management System
 
 ## Project Description
 
@@ -23,7 +23,7 @@ This is a Python-based Mobile Directory Management System that helps users manag
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Mobile-Directory-System/
@@ -32,22 +32,27 @@ Mobile-Directory-System/
 │── README.md
 ```
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Python on your system
 2. Open the project folder
 3. Run the file using:
 
 ```
-python main.py
+https://github.com/Bhagatkhushi/Mobile-Directory-System/blob/main/handwritten%20code.py
 ```
 
 ---
 
-## 📸 Output
+## Output
+<p align="center">
+  <img src="![Uploading Output 1.png…]().png" width="300">
+  <img src="![Uploading Output 2.png…]().png" width="300">
+  <img src="![Uploading Output 3.png…]().png"width="300">
+</p>
 
 
-## 💡 Future Improvements
+## Future Improvements
 
 * GUI (Graphical User Interface)
 * Database integration (MySQL)
