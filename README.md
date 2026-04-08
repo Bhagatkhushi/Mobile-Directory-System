@@ -53,11 +53,11 @@ The system allows exporting all contact data into a PDF file for easy sharing an
 ## Output
 
 ```
-<p align="center">
-<img width="1287" height="783" alt="Output 1" src="https://github.com/user-attachments/assets/714138f7-c74b-4034-ba89-2cef32b20cfc" />
-<img width="1281" height="781" alt="Output 2" src="https://github.com/user-attachments/assets/edb14385-b749-436f-a9c7-49b1e36d5c71" />
-<img width="1414" height="815" alt="Output 3" src="https://github.com/user-attachments/assets/2a75b8d5-24d9-4910-8487-6141d81165f7" />
-<img width="815" height="302" alt="Output 4" src="https://github.com/user-attachments/assets/989edb37-3183-4850-b849-3bb4b90b6978" />
+![Output1](screenshots/output1.png)  
+![Output2](screenshots/output2.png)
+![Output3](screenshots/output3.png)  
+![Output4](screenshots/output4.png)
+
 </p>
 
 ```
