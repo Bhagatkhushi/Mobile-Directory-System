@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a Python-based Mobile Directory Management System that helps users manage contact details efficiently. It allows users to store, search, update, and delete contact information easily.
+This is a Python-based Mobile Directory Management System that helps users manage contact details efficiently. It allows users to add, search, update, and delete contacts easily. The system also supports exporting contact data into a PDF file.
 
 ---
 
@@ -26,12 +26,15 @@ This is a Python-based Mobile Directory Management System that helps users manag
 ---
 
 ## Project Structure
-
 ```
 Mobile-Directory-System/
 │── main.py
 │── contacts.csv
-│── README.md
+│── export.pdf
+│── <img width="1287" height="783" alt="Output 1" src="https://github.com/user-attachments/assets/714138f7-c74b-4034-ba89-2cef32b20cfc" />
+│── <img width="1281" height="781" alt="Output 2" src="https://github.com/user-attachments/assets/edb14385-b749-436f-a9c7-49b1e36d5c71" />
+│── <img width="1414" height="815" alt="Output 3" src="https://github.com/user-attachments/assets/2a75b8d5-24d9-4910-8487-6141d81165f7" />
+│── <img width="815" height="302" alt="Output 4" src="https://github.com/user-attachments/assets/989edb37-3183-4850-b849-3bb4b90b6978" />
 ```
 
 ## How to Run
@@ -39,22 +42,25 @@ Mobile-Directory-System/
 1. Install Python on your system
 2. Open the project folder
 3. Run the file using:
-
 ```
+
 https://github.com/Bhagatkhushi/Mobile-Directory-System/blob/main/handwritten%20code.py
 ```
+## PDF Export
 
----
+The system allows exporting all contact data into a PDF file for easy sharing and record keeping
 
 ## Output
+
+```
 <p align="center">
-<img width="1281" height="781" alt="Output 2" src="https://github.com/user-attachments/assets/9cae0431-3134-4f64-8e40-5e28a7b1c6b7" />
-<img width="1287" height="783" alt="Output 1" src="https://github.com/user-attachments/assets/4b6e80a1-b6b5-4222-81c3-9239926ef7c5" />
-<img width="1414" height="815" alt="Output 3" src="https://github.com/user-attachments/assets/fd0fb74b-3ad0-4b90-b6fd-ed1a74b64f97" />
-<img width="815" height="302" alt="Output 4" src="https://github.com/user-attachments/assets/7f5a1ce8-413d-403d-8d61-b3a4fb377a9c" />
+<img width="1287" height="783" alt="Output 1" src="https://github.com/user-attachments/assets/714138f7-c74b-4034-ba89-2cef32b20cfc" />
+<img width="1281" height="781" alt="Output 2" src="https://github.com/user-attachments/assets/edb14385-b749-436f-a9c7-49b1e36d5c71" />
+<img width="1414" height="815" alt="Output 3" src="https://github.com/user-attachments/assets/2a75b8d5-24d9-4910-8487-6141d81165f7" />
+<img width="815" height="302" alt="Output 4" src="https://github.com/user-attachments/assets/989edb37-3183-4850-b849-3bb4b90b6978" />
 </p>
 
-
+```
 ## Future Improvements
 
 * GUI (Graphical User Interface)
@@ -63,6 +69,6 @@ https://github.com/Bhagatkhushi/Mobile-Directory-System/blob/main/handwritten%20
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
 **Khushi Bhagat**
