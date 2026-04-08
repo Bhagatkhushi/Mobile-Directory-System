@@ -1,12 +1,12 @@
 # 📱 Mobile Directory Management System
 
-## 📌 Project Description
+## Project Description
 
 This is a Python-based Mobile Directory Management System that helps users manage contact details efficiently. It allows users to store, search, update, and delete contact information easily.
 
 ---
 
-## 🚀 Features
+## Features
 
 * ➕ Add new contacts
 * 🔍 Search contacts
@@ -16,7 +16,7 @@ This is a Python-based Mobile Directory Management System that helps users manag
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * CSV (for data storage)
@@ -31,8 +31,6 @@ Mobile-Directory-System/
 │── contacts.csv
 │── README.md
 ```
-
----
 
 ## ▶️ How to Run
 
