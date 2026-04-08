@@ -51,7 +51,7 @@ The system allows exporting all contact data into a PDF file for easy sharing an
 
 ```
 <p align="center">
-![Output 2](screenshots/output 2.png)
+  <img src="Screenshot/Output2.png" width="500">
 </p>
 
 ```
