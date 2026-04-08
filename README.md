@@ -48,9 +48,6 @@ python main.py
 
 ## 📸 Output
 
-(Add screenshots of your project here)
-
----
 
 ## 💡 Future Improvements
 
@@ -63,7 +60,3 @@ python main.py
 ## 🙋‍♀️ Author
 
 **Khushi Bhagat**
-
----
-
-⭐ *If you like this project, give it a star!*
