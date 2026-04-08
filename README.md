@@ -8,18 +8,20 @@ This is a Python-based Mobile Directory Management System that helps users manag
 
 ## Features
 
-* ➕ Add new contacts
-* 🔍 Search contacts
-* ✏️ Update existing contacts
-* ❌ Delete contacts
-* 📂 Store data using CSV file
+* Add new contacts
+* Search contacts
+* Update existing contacts
+* Delete contacts
+* Store data using CSV file
+* Export contacts to PDF
 
 ---
 
 ## Technologies Used
 
 * Python
-* CSV (for data storage)
+* CSV (for data storage & file handling)
+* IDLE (Python IDE for development)
 
 ---
 
@@ -46,9 +48,10 @@ https://github.com/Bhagatkhushi/Mobile-Directory-System/blob/main/handwritten%20
 
 ## Output
 <p align="center">
-  <img src="![Uploading Output 1.png]()" width="300">
-  <img src="![Uploading Output 2.png]()" width="300">
-  <img src="![Uploading Output 3.png]()"width="300">
+<img width="1281" height="781" alt="Output 2" src="https://github.com/user-attachments/assets/9cae0431-3134-4f64-8e40-5e28a7b1c6b7" />
+<img width="1287" height="783" alt="Output 1" src="https://github.com/user-attachments/assets/4b6e80a1-b6b5-4222-81c3-9239926ef7c5" />
+<img width="1414" height="815" alt="Output 3" src="https://github.com/user-attachments/assets/fd0fb74b-3ad0-4b90-b6fd-ed1a74b64f97" />
+<img width="815" height="302" alt="Output 4" src="https://github.com/user-attachments/assets/7f5a1ce8-413d-403d-8d61-b3a4fb377a9c" />
 </p>
 
 
