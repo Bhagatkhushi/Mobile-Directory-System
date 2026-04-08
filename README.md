@@ -46,9 +46,9 @@ https://github.com/Bhagatkhushi/Mobile-Directory-System/blob/main/handwritten%20
 
 ## Output
 <p align="center">
-  <img src="![Uploading Output 1.png…]().png" width="300">
-  <img src="![Uploading Output 2.png…]().png" width="300">
-  <img src="![Uploading Output 3.png…]().png"width="300">
+  <img src="![Uploading Output 1.png]()" width="300">
+  <img src="![Uploading Output 2.png]()" width="300">
+  <img src="![Uploading Output 3.png]()"width="300">
 </p>
 
 
