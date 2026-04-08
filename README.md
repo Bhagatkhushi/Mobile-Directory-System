@@ -53,11 +53,9 @@ The system allows exporting all contact data into a PDF file for easy sharing an
 ## Output
 
 ```
-![Output1](screenshots/output1.png)  
-![Output2](screenshots/output2.png)
-![Output3](screenshots/output3.png)  
-![Output4](screenshots/output4.png)
-
+<p align="center">
+  <img src="output1.png" width="300">!
+  <img src="output2.png" width="300">
 </p>
 
 ```
