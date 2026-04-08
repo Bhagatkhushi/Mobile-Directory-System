@@ -1,4 +1,3 @@
-# Mobile-Directory-System
 # 📱 Mobile Directory Management System
 
 ## 📌 Project Description
