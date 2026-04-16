@@ -25,6 +25,23 @@ This is a Python-based Mobile Directory Management System that helps users manag
 
 ---
 
+## ⚙️ Working
+The Mobile Directory Management System is a Python-based application designed to manage contact details efficiently.
+
+The system provides options to add, search, update, delete, and view contacts.
+
+1. The user selects an operation from the menu (Add, Search, Update, Delete, View).
+2. For adding a contact, the user enters details such as name and phone number.
+3. The contact information is stored in a file (JSON or text file) for persistence.
+4. During search, the system checks the entered name in the stored data and displays matching results.
+5. The update feature allows modification of existing contact details.
+6. The delete option removes a selected contact from the directory.
+7. The view option displays all saved contacts.
+
+This system offers a simple and effective way to manage contacts using a command-line interface.
+
+---
+
 ## Project Structure
 ```
 Mobile-Directory-System/
